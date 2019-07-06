@@ -207,6 +207,7 @@ footer {
 }
   header{
     padding-bottom:30px;
+    width: auto;
   }
 
   #showcase h1{
