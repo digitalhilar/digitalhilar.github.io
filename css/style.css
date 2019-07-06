@@ -192,7 +192,6 @@ footer {
   #main .main-col,
   aside.sidebar,
   #services .main-col,
-  .container,
   footer img
    {
     float: none;
@@ -208,7 +207,7 @@ footer {
   }
 }
 @media screen and (max-width: 600px){
-  header ul{
+  header nav{
     display: inline-block;
     width: 100%;
   }
