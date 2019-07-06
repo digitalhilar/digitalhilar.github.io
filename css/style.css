@@ -183,7 +183,7 @@ footer {
 }
 
 /* Media Queries */
-@media(max-width: 780px){
+@media(max-width: 600px){
   header #branding,
   header nav,
   header nav li,
@@ -199,14 +199,14 @@ footer {
     width:100%;
   }
 
-@media screen and (max-width: 780px){
+@media screen and (max-width: 600px){
   #boxes .box {
     float: none;
     text-align:center;
     width:95%;
   }
 }
-@media screen and (max-width: 780px){
+@media screen and (max-width: 600px){
   header ul{
     display: inline-block;
     width: 100%;
