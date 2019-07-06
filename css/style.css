@@ -65,6 +65,7 @@ header #branding h1{
 header nav{
   float: right;
   margin-top: 10px;
+  display: block;
 }
 
 header a:hover{
@@ -205,11 +206,7 @@ footer {
     width:95%;
   }
 }
-@media screen and (max-width: 700px){
-  header ul{
-    width:95%;
-  }
-}
+
   header{
     padding-bottom:30px;
 
