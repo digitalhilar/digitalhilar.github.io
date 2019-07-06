@@ -183,10 +183,9 @@ footer {
 }
 
 /* Media Queries */
-@media(max-width: 600px){
+@media(max-width: 700px){
   header #branding,
   header nav,
-  header nav li,
   #newsletter h1,
   #newsletter form,
   #main .main-col,
@@ -199,17 +198,17 @@ footer {
     width:100%;
   }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 700px){
   #boxes .box {
     float: none;
     text-align:center;
     width:95%;
   }
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 700px){
   header li{
     display: inline;
-    padding: 0 20px 0 20px;
+    padding: -2px 20px -2px 20px;
   }
 }
   header{
