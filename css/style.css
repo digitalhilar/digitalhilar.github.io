@@ -192,6 +192,7 @@ footer {
   #main .main-col,
   aside.sidebar,
   #services .main-col,
+  .container,
   footer img
    {
     float: none;
