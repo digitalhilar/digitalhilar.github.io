@@ -199,9 +199,14 @@ footer {
   }
 
 @media screen and (max-width: 700px){
-  #boxes .box,header ul{
+  #boxes .box {
     float: none;
     text-align:center;
+    width:95%;
+  }
+}
+@media screen and (max-width: 700px){
+  header ul{
     width:95%;
   }
 }
