@@ -81,9 +81,9 @@ header .homestyle a{
 
 /** showcase **/
 #showcase {
-  text-decoration: none;
+text-decoration: none;
 min-height: 400px;
-background: url("../img/showcase1.jpg") no-repeat 0 -100px;
+background: url("../img/showcase1.jpg") no-repeat 0 -200px;
 text-align: center;
 color: #ffffff;
 }
