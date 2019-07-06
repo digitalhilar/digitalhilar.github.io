@@ -207,9 +207,9 @@ footer {
   }
 }
 @media screen and (max-width: 600px){
-  header nav{
+  header li{
     display: inline;
-    padding: 0 18px 0 18px;;
+    padding: 0 20px 0 20px;
   }
 }
   header{
